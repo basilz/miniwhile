@@ -1,2 +1,1 @@
 # miniwhile
-MiniWhile language exercise
